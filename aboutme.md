@@ -1,7 +1,8 @@
 ---
-layout: page
 title: About me
-subtitle: Let's see
+layout: page
+subtitle: Hey there its me !
+readtime: true
 ---
 
-My name Rahul. Currently I am a 4th year student at IIIT Kottayam
+My name Rahul. Currently I am a 4th year student at IIIT Kottayam. I am a fullstack developer.

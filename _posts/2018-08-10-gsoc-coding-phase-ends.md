@@ -3,6 +3,7 @@ layout: post
 title: GSoC - Coding Phase Ends
 subtitle: Wrapping up my project
 cover-img: /assets/img/gsoc_ends.jpg
+readtime: true
 share-img: /assets/img/gsoc_ends.jpg
 tags: [GSCO, 2018, blt, owasp, bugheist, fuse]
 ---

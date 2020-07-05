@@ -1,6 +1,11 @@
 ---
 layout: page
 ---
+{% comment %}
+ <div class="hero">
+  <img class="feature-img" src="{{ 'assets/img/tech-banner.jpg' | relative_url }}" />
+</div>
+{% endcomment %}
 
 {{ content }}
 
@@ -73,3 +78,13 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
+
+
+{% comment %}
+.hero {
+  .feature-img: {
+    max-width: 100%;
+  }
+}
+
+{% endcomment %}

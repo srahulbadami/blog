@@ -4,7 +4,7 @@
 title: Blog | Rahul Badami
 
 # Short description of your site
-description: Learning, Sharing Living
+description: Learning, Sharing, Living
 
 # Your name to show in the footer
 author: S Rahul Badami
@@ -82,14 +82,14 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-col: "#c0ff00"
+navbar-text-col: "#000"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+footer-col: "#c0ff00"
+footer-text-col: "#000"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
@@ -121,7 +121,7 @@ footer-link-col: "#404040"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "srahulbadami"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
@@ -170,7 +170,7 @@ timezone: "Asia/Kolkata"
 markdown: kramdown
 highlighter: rouge
 permalink: /:day-:month-:year-:title/
-paginate: 5
+paginate: 4
 
 kramdown:
   input: GFM

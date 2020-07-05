@@ -2,6 +2,7 @@
 layout: post
 title: GSoC - Coding Phase Begins
 subtitle: Got Selected for GSOC
+readtime: true
 cover-img: /assets/img/banner-gsoc.png
 share-img: /assets/img/banner-gsoc.png
 tags: [GSCO, 2018, blt, owasp, bugheist, fuse]

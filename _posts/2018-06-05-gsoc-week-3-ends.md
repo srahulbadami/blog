@@ -3,6 +3,7 @@ layout: post
 title: GSoC - Week 3 Ends
 subtitle: Leared about API's and stuffs
 cover-img: /assets/img/gsoc_ends.jpg
+readtime: true
 share-img: /assets/img/gsoc_ends.jpg
 tags: [GSCO, 2018, Open Source,Gsoc,Owasp,Bughiest,Fusetools,BLT]
 ---
