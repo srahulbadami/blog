@@ -5,7 +5,7 @@ subtitle: Wrapping up my project
 cover-img: /assets/img/gsoc_ends.jpg
 readtime: true
 share-img: /assets/img/gsoc_ends.jpg
-tags: [GSCO, 2018, blt, owasp, bugheist, fuse]
+tags: [GSoC, 2018, blt, owasp, bugheist, fuse]
 ---
 
 So, today it was the last day for my GSoC project. I wraped up my tasks and then submitted my project for review. 

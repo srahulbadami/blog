@@ -5,7 +5,7 @@ subtitle: Leared about API's and stuffs
 cover-img: /assets/img/gsoc_ends.jpg
 readtime: true
 share-img: /assets/img/gsoc_ends.jpg
-tags: [GSCO, 2018, Open Source,Gsoc,Owasp,Bughiest,Fusetools,BLT]
+tags: [GSoC, 2018, Open Source,Gsoc,Owasp,Bughiest,Fusetools,BLT]
 ---
 
 The First 3 weeks for GSoC coding period was quite fun. I Learn’t many concepts on Fuse about how to build a basic Android/iOS application .I also learnt how to retrieve data from API’s and use them into your application.

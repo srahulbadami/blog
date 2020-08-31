@@ -5,7 +5,7 @@ subtitle: Got Selected for GSOC
 readtime: true
 cover-img: /assets/img/banner-gsoc.png
 share-img: /assets/img/banner-gsoc.png
-tags: [GSCO, 2018, blt, owasp, bugheist, fuse]
+tags: [GSoC, 2018, blt, owasp, bugheist, fuse]
 ---
 
 I got selected for GSoC 2018 for the organization OWASP & the Project is Bughiest , a Bug Logging Tool. Its a platform to Report the software (and hardware) bugs that delay downloads, freeze screens, create payloads that deliver malware to websites and generate other issues .

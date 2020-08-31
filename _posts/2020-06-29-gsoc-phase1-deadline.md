@@ -4,7 +4,7 @@ cover-img: /assets/img/gsoc_ends.jpg
 readtime: true
 share-img: /assets/img/gsoc_ends.jpg
 subtitle: Phase 1 Summary
-tags: [GSoC 2020, gsco, owasp, blt, Bugheist, Bug Hunt]
+tags: [GSoC 2020, gsoc, owasp, blt, Bugheist, Bug Hunt]
 ---
 
 The phase 1 of this year GSoC has came to an end.
